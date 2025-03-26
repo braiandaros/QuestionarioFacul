@@ -1,0 +1,149 @@
+[
+    {
+        "question": "Uma prova com duas questões foi dada a uma classe de 40 alunos. Dez alunos acertaram as duas questões, 25 acertaram a primeira questão e 20 acertaram a segunda questão. Quantos alunos erraram as duas questões?",
+        "options": [
+            {"text": "05 alunos"},
+            {"text": "7 alunos"},
+            {"text": "10 alunos"},
+            {"text": "12 alunos"},
+            {"text": "15 alunos"}
+        ],
+        "Resposta": "05 alunos"
+    },
+
+    {
+        "question": "Considerando cada relação em S X T, onde S = T = N como um-para-um, um-para-vários, váriospara-um ou vários-para-vários considere as relações abaixo: I. {(1,2), (1,4), (1,6), (2, 3), (4, 3)} II. {(9, 7), (6, 5), (3,6), (8, 5)} III. {(12, 5), (8,4), (6, 3), (7, 12)} IV. {(2,7), (8,4), (2,5), (7,6), (10, 1)} Assinale a alternativa que classifica corretamente as relações anteriores, respectivamente",
+        "options": [
+          {"text": "um-para-um, vários-para-vários, vários-para-um, vários-para-vários"},
+          {"text": "vários-para-um, um-para-um, um-para-um, vários-para-vários"},
+          {"text": "vários-para-vários, um-para-vários, um-para-vários, um-para-vários"},
+          {"text": "vários-para-vários, vários-para-um, um-para-um, um-para-vários"},
+          {"text": "vários-para-vários, um-para-vários, vários-para-um, um-para-vários"}
+        ],
+        "Resposta": "vários-para-vários, um-para-vários, vários-para-um, um-para-vários"
+    },
+    {
+        "question": "Sabendo que A e B são dois conjuntos tais que: 1. (1, a) e (b, 3) são elementos de A x B; 2. A n B = {1, 3} Podemos afirmar com toda segurança que:",
+        "options": [
+          {"text": "A × B tem 8 elementos"},
+          {"text": "A × B tem menos de 8 elementos"},
+          {"text": "A × B tem mais de 8 elementos"},
+          {"text": "A × B não pode ter 9 elementos"},
+          {"text": "Nada se pode afirmar sobre o número de elementos de A × B"}
+        ],
+        "Resposta": "A × B tem mais de 8 elementos"
+    },
+    {
+        "question": "Em uma pesquisa com 120 pessoas, verificou-se que 65 assistem ao noticiário A 45 assistem ao noticiário B 42 assistem ao noticiário C 20 assistem ao noticiário A e ao noticiário B 25 assistem ao noticiário A e ao noticiário C , 15 assistem ao noticiário B e ao noticiário C 8 assistem aos três noticiários. Então o número de pessoas que assistem somente a um noticiário é",
+        "options": [
+          {"text": "7"},
+          {"text": "8"},
+          {"text": "14"},
+          {"text": "28"},
+          {"text": "56"}
+        ],
+        "Resposta": "56"
+    },
+    {
+        "question": "Pedro tem uma fazenda e três vacas chegam ao estábulo para ser alimentadas e tem cinco manjedouras vagas. De quantos modos distintos elas podem se localizar (supondo que as vacas não podem se mexer de uma manjedoura a outra) nas manjedouras vagas?",
+        "options": [
+          {"text": "20"},
+          {"text": "40"},
+          {"text": "50"},
+          {"text": "60"},
+          {"text": "74"}
+        ],
+        "Resposta": "60"
+    },
+    {
+        "question": "Uma empresa oferece dois cursos não obrigatórios aos seus funcionários no momento da admissão: Primeiros Socorros e Prevenção de Incêndios. Essa empresa tem hoje 500 funcionários. Desses, 200 fizeram o curso de Primeiros Socorros, 150 fizeram o de Prevenção de Incêndios e 70 fizeram os dois cursos. O Departamento de Pessoal da empresa está fazendo uma pesquisa sobre a qualidade dos cursos ofertados e sorteia aleatoriamente, dentre seus funcionários, aqueles que responderão a um questionário. Quantos funcionários não fizeram nenhum dos dois cursos?",
+        "options": [
+          {"text": "220"},
+          {"text": "280"},
+          {"text": "80"},
+          {"text": "70"},
+          {"text": "44"}
+        ],
+        "Resposta": "220"
+    },
+    {
+        "question": "O seguinte dígrafo representa a relação R sobre o conjunto A = {a, b, c, d}",
+        "options": [
+          {"text": "Somente I"},
+          {"text": "Somente II e III"},
+          {"text": "Somente III e IV"},
+          {"text": "Somente IV"},
+          {"text": "Somente IV e V"}
+        ],
+        "imagem":"./Img_perguntas/digrafo.png",
+        "Resposta": "Somente IV"
+    },
+    {
+      "question": "O fecho transitivo em A = {0, 1, 2, 3} da relação R = {(0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0)} é:",
+      "options": [
+        {"text": "{(0, 0), (1, 1), (2, 2), (3, 3)}"},
+        {"text": "{(0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0)}"},
+        {"text": "{(0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (3, 3)}"},
+        {"text": "{(0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (0, 2), (0, 0), (1, 0), (2, 1), (3, 1), (3, 2)}"},
+        {"text": "{(0, 0), (0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (1, 0), (2, 1), (3, 1), (3, 2)}"}
+      ],
+      "Resposta": "{(0, 0), (0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (1, 0), (2, 1), (3, 1), (3, 2)}"
+    },
+    {
+      "question": "Sejam as funções f(x) = 3x - 5 e g(x) = 2 - x². Analise as seguintes afirmações: \nI) A função é injetora independente do domínio que seja escolhido.\n II) A função g é injetora se Dom(g) = [-1, 1]. \n III) O valor de f(g(0)) = 1. \nIV) O valor de g(f(0)) = 23. \nV) Temos que g(f(1)) = f(g( -1)) Assinale com V (verdadeiro) ou com F (falso):",
+      "options": [
+        {"text": "F – V – V – V – F"},
+        {"text": "V – V – F – F – V"},
+        {"text": "V – F – F – F – F"},
+        {"text": "V – F – V – F – V"},
+        {"text": "F – F – V – V – V"}
+      ],
+      "answer": "V – F – V – F – V"
+    },
+    {
+      "question": "Dado o conjunto A = {a, b, c} e a relação binária R definida em A por aRa, aRb, bRb, bRa, cRc, identifique as afirmativas verdadeiras.",
+      "options": [
+        {"text": "Apenas a alternativa IV é verdadeira."},
+        {"text": "Apenas as alternativas III e IV são verdadeiras."},
+        {"text": "Apenas as alternativas I e II são verdadeiras."},
+        {"text": "Apenas as alternativas II e III são verdadeiras."},
+        {"text": "Apenas a alternativa I é verdadeira."}
+      ],
+      "answer": "Apenas a alternativa IV é verdadeira."
+    },
+    {
+      "question": "Dado os conjuntos",
+      "options": [
+        {"text": "0"},
+        {"text": "1"},
+        {"text": "2"},
+        {"text": "3"},
+        {"text": "4"}
+      ],
+      "imagem":"./Img_perguntas/conjunto1.png",
+      "answer": "2"
+    },
+    {
+      "question": "Uma prova com duas questões foi dada a uma classe de 40 alunos. Dez alunos acertaram as duas questões, 25 acertaram a primeira questão e 20 acertaram a segunda questão. Quantos alunos erraram as duas questões?",
+      "options": [
+        {"text": "05 alunos"},
+        {"text": "7 alunos"},
+        {"text": "10 alunos"},
+        {"text": "12 alunos"},
+        {"text": "15 alunos"}
+      ],
+      "answer": "05 alunos"
+    },
+    {
+      "question": "Seja S={1,2,4,6}. Qual das relações em S dadas a seguir é ao mesmo tempo reflexiva, antissimétrica e transitiva",
+      "options": [
+        {"text": "R = {(2, 4), (4, 2), (4, 6), (6, 4)}"},
+        {"text": "R = {(1, 2), (2, 1), (1, 1), (2, 2)}"},
+        {"text": "R = {(1, 1), (2, 2), (4, 4), (6, 6), (4, 6), (6, 4)}"},
+        {"text": "R = {(1, 1), (2, 2), (4, 4), (6, 6), (1, 2), (2, 4), (4, 6)}"},
+        {"text": "R = {(1, 1), (1, 2), (1, 4), (1, 6), (2, 2), (4, 4), (6, 6), (2, 4), (2, 6)}"}
+      ],
+      "answer": "R = {(1, 1), (1, 2), (1, 4), (1, 6), (2, 2), (4, 4), (6, 6), (2, 4), (2, 6)}"
+    }
+
+]
