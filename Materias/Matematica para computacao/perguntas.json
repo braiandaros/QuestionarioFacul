@@ -67,7 +67,7 @@
         "Resposta": "220"
     },
     {
-        "question": "O seguinte dígrafo representa a relação R sobre o conjunto A = {a, b, c, d}",
+        "question": "O seguinte dígrafo representa a relação R sobre o conjunto A = {a, b, c, d} Temos as seguintes afirmações: I) R é reflexiva II) R é simétrica III) R é transitiva IV) O fecho simétrico é {(d, a), (c, b), (c, d)} U R V) O fecho transitivo é {(a, c), (b, c)} U R: São verdadeiras:",
         "options": [
           {"text": "Somente I"},
           {"text": "Somente II e III"},
@@ -87,7 +87,7 @@
         {"text": "{(0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (0, 2), (0, 0), (1, 0), (2, 1), (3, 1), (3, 2)}"},
         {"text": "{(0, 0), (0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (1, 0), (2, 1), (3, 1), (3, 2)}"}
       ],
-      "Resposta": "{(0, 0), (0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (1, 0), (2, 1), (3, 1), (3, 2)}"
+      "Resposta": "{(0, 1), (1, 1), (1, 2), (2, 0), (2, 2), (3, 0), (0, 2), (0, 0), (1, 0), (2, 1), (3, 1), (3, 2)}"
     },
     {
       "question": "Sejam as funções f(x) = 3x - 5 e g(x) = 2 - x². Analise as seguintes afirmações: \nI) A função é injetora independente do domínio que seja escolhido.\n II) A função g é injetora se Dom(g) = [-1, 1]. \n III) O valor de f(g(0)) = 1. \nIV) O valor de g(f(0)) = 23. \nV) Temos que g(f(1)) = f(g( -1)) Assinale com V (verdadeiro) ou com F (falso):",
@@ -101,7 +101,7 @@
       "Resposta": "V – F – V – F – V"
     },
     {
-      "question": "Dado o conjunto A = {a, b, c} e a relação binária R definida em A por aRa, aRb, bRb, bRa, cRc, identifique as afirmativas verdadeiras.",
+      "question": "Dado o conjunto A = {a, b, c} e a relação binária R definida em A por aRa, aRb, bRb, bRa, cRc, identifique as afirmativas verdadeiras. I. R é uma relação de ordem. II. R é uma relação anti-simétrica. III. R é uma relação não transitiva. IV. R é uma relação de equivalência.",
       "options": [
         {"text": "Apenas a alternativa IV é verdadeira."},
         {"text": "Apenas as alternativas III e IV são verdadeiras."},
@@ -157,7 +157,7 @@
       "Resposta": "220"
     },
     {
-      "question": "Com respeito à função 𝑓(𝑥)=𝑒−2𝑥+2f(x)=e −2x +2, podemos afirmar:I) A função f representa uma parábola.II) A função f é decrescente.III) O valor de 𝑓(0)f(0) é 2. IV) A imagem da função f são todos os reais positivos maiores que 2.",
+      "question": "Com respeito à função 𝑓(𝑥)=𝑒−2𝑥+2f(x)=e −2x +2, podemos afirmar:I) A função f representa uma parábola.II) A função f é decrescente.III) O valor de f(0) é 2. IV) A imagem da função f são todos os reais positivos maiores que 2.",
       "options": [
         {"text": "Somente I"},
         {"text": "Somente I e III"},
@@ -180,7 +180,7 @@
       "Resposta": "(−∞,−1)∪[0,5)−{1}"
     },
     {
-      "question": "Considerando todos os conhecimentos sobre conjuntos numéricos, analise as afirmativas abaixo:I. O conjunto dos números naturais é finito. II. Todo número racional é também um número real. III. 5 + 3 = 8 5​ + 3​ = 8 IV. x está entre -1 e 5, e representamos o intervalo na reta real como[x∣−1<x<5].[x∣−1<x<5].São verdadeiras:",
+      "question": "Considerando todos os conhecimentos sobre conjuntos numéricos, analise as afirmativas abaixo:I. O conjunto dos números naturais é finito. II. Todo número racional é também um número real. III. 5​ + 3​ = 8 IV. x está entre -1 e 5, e representamos o intervalo na reta real como[x∣−1<x<5].[x∣−1<x<5].São verdadeiras:",
       "options": [
         {"text": "II e IV"},
         {"text": "Apenas II"},
