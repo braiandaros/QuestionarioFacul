@@ -157,7 +157,7 @@
       "Resposta": "220"
     },
     {
-      "question": "Com respeito à função 𝑓(𝑥)=𝑒−2𝑥+2f(x)=e −2x +2, podemos afirmar:I) A função f representa uma parábola.II) A função f é decrescente.III) O valor de f(0) é 2. IV) A imagem da função f são todos os reais positivos maiores que 2.",
+      "question": "Com respeito à função 𝑓(𝑥)=𝑒^−2𝑥+2, podemos afirmar:I) A função f representa uma parábola.II) A função f é decrescente.III) O valor de f(0) é 2. IV) A imagem da função f são todos os reais positivos maiores que 2.",
       "options": [
         {"text": "Somente I"},
         {"text": "Somente I e III"},
