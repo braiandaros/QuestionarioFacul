@@ -120,7 +120,7 @@
         {"text": "3"},
         {"text": "4"}
       ],
-      "imagem":"./Img_perguntas/conjunto1.png",
+      "imagem":"./Img_perguntas/Conjunto1.png",
       "answer": "2"
     },
     {
@@ -144,6 +144,175 @@
         {"text": "R = {(1, 1), (1, 2), (1, 4), (1, 6), (2, 2), (4, 4), (6, 6), (2, 4), (2, 6)}"}
       ],
       "answer": "R = {(1, 1), (1, 2), (1, 4), (1, 6), (2, 2), (4, 4), (6, 6), (2, 4), (2, 6)}"
+    },
+    {
+      "question": "Uma empresa oferece dois cursos não obrigatórios aos seus funcionários no momento da admissão: Primeiros Socorros e Prevenção de Incêndios. Essa empresa tem hoje 500 funcionários. Desses, 200 fizeram o curso de Primeiros Socorros, 150 fizeram o de Prevenção de Incêndios e 70 fizeram os dois cursos. O Departamento de Pessoal da empresa está fazendo uma pesquisa sobre a qualidade dos cursos ofertados e sorteia aleatoriamente, dentre seus funcionários, aqueles que responderão a um questionário. Quantos funcionários não fizeram nenhum dos dois cursos?",
+      "options": [
+        {"text": "220"},
+        {"text": "280"},
+        {"text": "80"},
+        {"text": "70"},
+        {"text": "44"}
+      ],
+      "answer": "220"
+    },
+    {
+      "question": "Com respeito à função 𝑓(𝑥)=𝑒−2𝑥+2f(x)=e −2x +2, podemos afirmar:I) A função f representa uma parábola.II) A função f é decrescente.III) O valor de 𝑓(0)f(0) é 2. IV) A imagem da função f são todos os reais positivos maiores que 2.",
+      "options": [
+        {"text": "Somente I"},
+        {"text": "Somente I e III"},
+        {"text": "Somente II"},
+        {"text": "Somente II e IV"},
+        {"text": "Somente IV"}
+      ],
+      "answer": "Somente I e III"
+    },
+    {
+      "question": "Seja o grafico da função",
+      "options": [
+        {"text": "(−∞,5)"},
+        {"text": "(−∞,5)−{1} "},
+        {"text": "(−∞,1)∪[0,5)−{1}"},
+        {"text": "(−∞,−1)∪[0,5)"},
+        {"text": "(−∞,−1)∪[0,5)−{1}"}
+      ],
+      "imagem":"./Img_perguntas/grafico.png",
+      "answer": "(−∞,−1)∪[0,5)−{1}"
+    },
+    {
+      "question": "Considerando todos os conhecimentos sobre conjuntos numéricos, analise as afirmativas abaixo:I. O conjunto dos números naturais é finito. II. Todo número racional é também um número real. III. 5 + 3 = 8 5​ + 3​ = 8 IV. x está entre -1 e 5, e representamos o intervalo na reta real como[x∣−1<x<5].[x∣−1<x<5].São verdadeiras:",
+      "options": [
+        {"text": "II e IV"},
+        {"text": "Apenas II"},
+        {"text": "Apenas III"},
+        {"text": "I e III"},
+        {"text": "Apenas IV"}
+      ],
+      "answer": "II e IV"
+    },
+    {
+      "question": "Seja X um conjunto de 6 elementos distintos e seja P(X) o conjunto das partes de X. O numero de elementos de P(X) é:",
+      "options": [
+        {"text": "62"},
+        {"text": "64"},
+        {"text": "5"},
+        {"text": "7"},
+        {"text": "63"}
+      ],
+      "answer": "64"
+    },
+    {
+      "question": "Sejam a relação sobre o conjunto A = {1,2, 3, 4} descrita no conjunto R = {(1, 1), (1,4), (2, 3), (3, 2), (1,2), (4, 3)}. Quais das seguintes alternativas descreve apropriadamente o fecho transitivo (F) de R?",
+      "options": [
+        {"text": "F = {(1, 3), (2, 2), (3, 3), (4,2)} U R"},
+        {"text": "F = {(1, 3), (2, 2), (3, 3), (2, 4)} U R"},
+        {"text": "F = {(3, 1), (4, 4), (2,2), (2, 4)} U R"},
+        {"text": "F = {(3,1), (4, 4), (3, 3), (4, 5)} U R"},
+        {"text": "F = {(2,1), (4,1), (2,3), (3,4)} U R"}
+      ],
+      "answer": "F = {(1, 3), (2, 2), (3, 3), (4,2)} U R"
+    },
+    {
+      "question": "Noventa alunos do primeiro período de Ciências da Computação frequentam aulas de informática, 70 frequentam aulas de matemática e 5 não se interessam pelas duas disciplinas neste período. Se 30 frequentarem aulas de Informática e matemática. Quantos alunos há no primeiro período de Ciências da Computação?",
+      "options": [
+        {"text": "115"},
+        {"text": "125"},
+        {"text": "135"},
+        {"text": "145"},
+        {"text": "155"}
+      ],
+      "answer": "135"
+    },
+    {
+      "question": "Quais das operações a seguir são binárias ou unárias nos conjuntos dados?",
+      "options": [
+        {"text": "A operação descrita em I é unária e a II é binária"},
+        {"text": "A operação descrita em I não é binária e a III é unária."},
+        {"text": "A operação descrita em II e III não são operações unárias"},
+        {"text": "A operação descrita em III é unária, mas a II não é unária."},
+        {"text": "A operação descrita em I é binária, mas a III não é unária."}
+      ],
+      "imagem":"./Img_perguntas/binarias.png",
+      "answer": "A operação descrita em I não é binária e a III é unária."
+    },
+    {
+      "question": "Qual é o gráfico da função f(x)= 1 – 5x ?",
+      "options": [
+        {"text": "0"},
+        {"text": "0"},
+        {"text": "0"},
+        {"text": "0"},
+        {"text": "0"}
+      ],
+      "imagem":"./Img_perguntas/f1grau.png",
+      "answer": "0"
+    },
+    {
+      "question": "De acordo com a relação binária R: |x| <= |y| e o conjunto S = Q. Assinale a alternativa correta em relação a todas as propriedades de R:",
+      "options": [
+        {"text": "Simétrica"},
+        {"text": "Reflexiva e simétrica"},
+        {"text": "Reflexiva e antissimétrica"},
+        {"text": "Reflexiva e transitiva"},
+        {"text": "Reflexiva. simétrica e transitiva"}
+      ],
+      "answer": "Reflexiva e transitiva"
+    },
+    {
+      "question": "Analise cada afirmativa abaixo e julgue quais apresentam os elementos da relação corretamente entre conjuntos numéricos.",
+      "options": [
+        {"text": "Apenas a afirmativa I está correta."},
+        {"text": "As afirmativas I e II estão corretos"},
+        {"text": "As afirmativas II e III estão corretas"},
+        {"text": "Apenas as afirmativas I e III estão corretas."},
+        {"text": "As afirmativas I, II e III estão corretas"}
+      ],
+      "imagem":"./Img_perguntas/relacoes.png",
+      "answer": "Apenas as afirmativas I e III estão corretas."
+    },
+    {
+      "question": "Seja S={0, 2, 4, 6} e T={1, 3, 5, 7} e sejam os seguintes conjuntos de pares ordenados a seguir:A = {(0,2),(2,4),(4,6),(6,0)}B = {(6,3),(2,1),(0,3),(4,5)}C = {(2,3),(4,7),(0,1),(6,5)}D = {(2,1),(4,5),(6,3)}Afirmações:I) A relação A é uma função de S em T injetora.II) A relação B é uma função de S em T bijetora.III) A relação C é uma função de S em T sobrejetora.IV) A relação D não é uma função de S em T.São verdadeiras:",
+      "options": [
+        {"text": "Somente I"},
+        {"text": "Somente II e III"},
+        {"text": "Somente IV"},
+        {"text": "Somente I e II"},
+        {"text": "Somente III e IV"}
+      ],
+      "answer": "Somente III e IV"
+    },
+    {
+      "question": "Seja A um subconjunto dos Naturais. Temos as seguintes afirmações:I) Uma relação interna R em A é um subconjunto dos Naturais.II) Uma relação de equivalência tem associada classes de equivalência.III) Uma relação de ordem pode ser representada por um diagrama de Hasse.IV) Uma relação de ordem é reflexiva, simétrica e transitiva.Assinale com V (verdadeiro) ou com F (falso):",
+      "options": [
+        {"text": "V – V – F – F"},
+        {"text": "V – F – F – F"},
+        {"text": "V – F – F – V"},
+        {"text": "F – V – F – F"},
+        {"text": "F – V – V – F"}
+      ],
+      "answer": "F – V – V – F"
+    },
+    {
+      "question": "Foi estudado todo conceito de conjuntos numéricos. Sendo assim, considere os conjuntos A={1;2;3;4;5}; B={4;5;6;7;8} e C={2;4;6;9;10}, calcule a quantidade de elementos da união dos conjuntos A, B e C.",
+      "options": [
+        {"text": "15 elementos"},
+        {"text": "10 elementos"},
+        {"text": "12 elementos"},
+        {"text": "11 elementos"},
+        {"text": "14 elementos"}
+      ],
+      "answer": "10 elementos"
+    },
+    {
+      "question": "Considere a função. É possível afirmar que seu conjunto Domínio é igual a",
+      "options": [
+        {"text": "{x∈R∣−1<x<5}"},
+        {"text": "{x∈R∣x≤2}"},
+        {"text": "{x∈R∣x≥−1 e x!=5}"},
+        {"text": "{x∈R∣x≤2 e x!=−1}"},
+        {"text": "{x∈R∣x≥2 e x!=5}"}
+      ],
+      "imagem":"./Img_perguntas/funcao.png",
+      "answer": "{x∈R∣x≤2 e x!=−1}"
     }
-
 ]
