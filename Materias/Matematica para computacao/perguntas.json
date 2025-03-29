@@ -180,7 +180,7 @@
       "Resposta": "(−∞,−1)∪[0,5)−{1}"
     },
     {
-      "question": "Considerando todos os conhecimentos sobre conjuntos numéricos, analise as afirmativas abaixo:I. O conjunto dos números naturais é finito. II. Todo número racional é também um número real. III. 5​ + 3​ = 8 IV. x está entre -1 e 5, e representamos o intervalo na reta real como[x∣−1<x<5].[x∣−1<x<5].São verdadeiras:",
+      "question": "Considerando todos os conhecimentos sobre conjuntos numéricos, analise as afirmativas abaixo:I. O conjunto dos números naturais é finito. II. Todo número racional é também um número real. III. raiz5​ + raiz3​ = raiz8 IV. x está entre -1 e 5, e representamos o intervalo na reta real como[x∣−1<x<5].São verdadeiras:",
       "options": [
         {"text": "II e IV"},
         {"text": "Apenas II"},
